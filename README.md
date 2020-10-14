@@ -1,2 +1,5 @@
 # hello-world-3
-for just
+
+hi friend, how are you doing?
+my name is Glehn.
+i am a program.
